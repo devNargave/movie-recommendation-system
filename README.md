@@ -15,3 +15,7 @@ Cosine distance (also known as cosine similarity) is a measure of similarity bet
 Cosine similarity calculates the cosine of the angle between two vectors and is often used in various applications, including text analysis, recommendation systems, image processing, and more.
 
 ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://github.com/devNargave/movie-recommendation-system/assets/143003995/f2af21cf-0dd1-48ea-9dd5-7ed01d7c377b)
+
+# source of dataset
+https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
+https://www.kaggle.com/rounakbanik/the-movies-dataset
