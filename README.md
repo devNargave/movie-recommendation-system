@@ -17,5 +17,5 @@ Cosine similarity calculates the cosine of the angle between two vectors and is 
 ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://github.com/devNargave/movie-recommendation-system/assets/143003995/f2af21cf-0dd1-48ea-9dd5-7ed01d7c377b)
 
 # source of dataset
-https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
-https://www.kaggle.com/rounakbanik/the-movies-dataset
+> movie DataSet(https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+> credits(https://www.kaggle.com/rounakbanik/the-movies-dataset)
